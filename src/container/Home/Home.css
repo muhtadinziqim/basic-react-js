@@ -1,0 +1,14 @@
+.navigation {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: turquoise;
+}
+
+.navigation a{
+    margin-left: 20px;
+    padding: 8px;
+    background: violet;
+    text-decoration: none;
+    color: black;
+}

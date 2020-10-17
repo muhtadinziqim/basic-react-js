@@ -1,0 +1,14 @@
+.youtube-wrapper{
+    width: 200px;
+    padding: 8px;
+    margin: 8px;
+    display: inline-block;
+}
+
+.image-thumb img{
+    width: 100%;
+}
+
+.title {
+    font-weight: 700;
+}
